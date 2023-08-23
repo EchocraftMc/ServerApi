@@ -1,0 +1,22 @@
+
+s
+java:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(âÁê‚ùÿÿÿÿ8°£¿¢¢1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(àªÅö8²£¿¢¢1
+Y
+java:S1874"7Remove this use of "MultipartEntity"; it is deprecated.(Æ¢ÄÞûÿÿÿÿ8µ£¿¢¢1
+Y
+java:S1874"7Remove this use of "MultipartEntity"; it is deprecated.(Æ¢ÄÞûÿÿÿÿ8¸£¿¢¢1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜Š¿Ûüÿÿÿÿ8»£¿¢¢1
+X	java:S125#"<This block of commented-out lines of code should be removed.(ÝË¼É8Á£¿¢¢1
+c	java:S899B"BDo something with the "boolean" value returned by "createNewFile".(Ð’Íùÿÿÿÿ8Â£¿¢¢1
+Z
+java:S1854F"8Remove this useless assignment to local variable "file".(€§¶‚üÿÿÿÿ8Â£¿¢¢1
+K
+java:S1481F")Remove this unused "file" local variable.(€§¶‚üÿÿÿÿ8Ã£¿¢¢1
+T
+java:S1128"7Remove this unused import 'org.apache.http.HttpEntity'.(©À¥ë8ŽÆ¢¢1
+`
+java:S1128"CRemove this unused import 'org.apache.http.client.methods.HttpGet'.(‡Ê’Ú8ƒŽÆ¢¢1
+Z
+java:S1128"=Remove this unused import 'org.apache.http.util.EntityUtils'.(Å‹»8…ŽÆ¢¢1
